@@ -2,12 +2,13 @@
 Section 1
 	Name: Amit Kumar Jain
 	Years of Experience: 12 years
+	
 Section 2: 
 	Build IDE: Eclipse Java EE IDE (Version: eclipse-4-4-2-luna-32-bit-en-win)
-	JDK Version: java version "1.8.0_66"
-	Spring Boot
-        Hibernate
-	Rest services
+	JDK Version: java version "1.8.0_66",
+	Spring Boot,
+        Hibernate,
+	Rest services,
 	Mysql db	
 
 
