@@ -13,6 +13,8 @@ Section 2:
 
 Section 3 
 b)	Final Output Snapshot 
+https://github.com/amitpune/PublishNews/blob/master/ScreenShort.docx
+
 
 Section 4 
 Licensing 
