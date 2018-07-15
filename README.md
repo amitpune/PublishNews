@@ -2,20 +2,17 @@
 Section 1
 	Name: Amit Kumar Jain
 	Years of Experience: 12 years
-
 Section 2: 
 	Build IDE: Eclipse Java EE IDE (Version: eclipse-4-4-2-luna-32-bit-en-win)
 	JDK Version: java version "1.8.0_66"
 	Spring Boot
         Hibernate
 	Rest services
-	mYSQL db	
+	Mysql db	
 
 
 Section 3 
 b)	Final Output Snapshot 
-
-Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is :https://github.com/nescafe2018/intrvw_sq , then you can have the following text in your readme ![SonarLint] (https://github.com/nescafe2018/intrvw_sq/<Link of you image) )
 
 Section 4 
 Licensing 
